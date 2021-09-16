@@ -206,5 +206,7 @@ bash 0.34474748373031616
 - 得到拼音语料的时候，也可以去除掉英文及其它的一些非拼音的字符或字符串。
 
 # 参考
-> https://github.com/Embedding/Chinese-Word-Vectors：获取大量中文预训练向量<br>
-> https://github.com/AimeeLee77/wiki_zh_word2vec：本项目基于该项目进行的修改，不同之处：（1）修改支持为python3；（2）修改繁体转简体使用的包，该项目里面的包不可用；（3）修改新版gensim加载词向量的方式；（4）增加字向量和拼音向量。
+https://github.com/Embedding/Chinese-Word-Vectors：
+获取大量中文预训练向量<br>
+https://github.com/AimeeLee77/wiki_zh_word2vec：
+本项目基于该项目进行的修改，不同之处：（1）修改支持为python3；（2）修改繁体转简体使用的包，该项目里面的包不可用；（3）修改新版gensim加载词向量的方式；（4）增加字向量和拼音向量。

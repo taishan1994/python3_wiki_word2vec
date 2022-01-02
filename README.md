@@ -208,8 +208,7 @@ bash 0.34474748373031616
 # 参考
 https://github.com/Embedding/Chinese-Word-Vectors：
 获取大量中文预训练向量<br>
-https://github.com/AimeeLee77/wiki_zh_word2vec：<br>
-本项目基于该项目进行的修改，不同之处：<br>
+https://github.com/AimeeLee77/wiki_zh_word2vec： 本项目基于该项目进行的修改，不同之处：<br>
 （1）修改支持为python3；<br>
 （2）修改繁体转简体使用的包，该项目里面的包不可用；<br>
 （3）修改新版gensim加载词向量的方式；<br>
